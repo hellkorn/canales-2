@@ -81,13 +81,15 @@ http://200.41.79.165:8000/play/a049/index.m3u8
 
 http://200.41.79.165:8000/play/a04j/index.m3u8
 
-#EXTINF:-23 ,A&E HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 
-http://185.209.15.152:37500/maria2022/maria2022/104008
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) - MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wonder Woman 2022" tvg-logo="" group-title="Hollywood Movies",Wonder Woman 2022
+https://assets-1.mypowerdisk.com/transcode_video/dcd3b3c2ef670de7a13c4dbcb451f3dd/dash/dcd3b3c2ef670de7a13c4dbcb451f3dd.mpd
 

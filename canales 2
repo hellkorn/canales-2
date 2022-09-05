@@ -93,3 +93,5 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wonder Woman 2022" tvg-logo="" group-title="Hollywood Movies",Wonder Woman 2022
 https://assets-1.mypowerdisk.com/transcode_video/dcd3b3c2ef670de7a13c4dbcb451f3dd/dash/dcd3b3c2ef670de7a13c4dbcb451f3dd.mpd
 
+#EXTINF:-1 tvg-id="AndorraTV.ad" status="online",ATV (720p)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
